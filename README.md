@@ -1,2 +1,2 @@
-# Solid_Works_Grampo
+# Solid_Works_Clamp
 Clamp part in SolidWorks. 
